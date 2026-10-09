@@ -12,4 +12,9 @@ $pilares = [
     "titulo" => "Visão",
     "descricao" => "Ser a principal plataforma de gerenciamento de infaestrutura interna do setor."
 ],
+[
+    "icone" => "💎",
+    "titulo" => "Valores",
+    "descricao" => "Agilidade no atendimento, organização de prioridades e código limpo."
+]
 ];
