@@ -7,3 +7,4 @@ Subdominio: ctrlcctrlv
 
 Linux:  ctrlcctrlv
 https://ctrlcctrlv.devlook.xyz
+ssh ctrlcctrlv755@193.111.116.99
