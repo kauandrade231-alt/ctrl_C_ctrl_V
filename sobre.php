@@ -17,4 +17,5 @@ $pilares = [
     "titulo" => "Valores",
     "descricao" => "Agilidade no atendimento, organização de prioridades e código limpo."
 ]
+
 ];
