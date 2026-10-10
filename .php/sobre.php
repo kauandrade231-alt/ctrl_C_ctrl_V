@@ -1,30 +1,30 @@
 <?php
-//ARQUIVO PHP QUE PROCESSA AS MATRIZES DA PÁGINA SOBRE
 
-$pilares = [
-    [
-    "icone" => "🎯",
-    "titulo" => "Missão",
-    "descricao" => "Desenvolver sistemas estáveis e prestar o melhor suporte em chamados técnicos de TI."
-],
-[
-    "icone" => "👁️",
-    "titulo" => "Visão",
-    "descricao" => "Ser a principal plataforma de gerenciamento de infaestrutura interna do setor."
-],
-[
-    "icone" => "💎",
-    "titulo" => "Valores",
-    "descricao" => "Agilidade no atendimento, organização de prioridades e código limpo."
-]
+require_once "sobre-dados.php";
+?>
 
-];
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
-$equipe = [
-    [
-        "nome" => "Francisco Dacol",
-        "funcao" => "Desenvolvedor Backend / PHP",
-        "descricao" => "Responsável pelo desenvolvimento da página 'Sobre' e processamento de matrizes."
-    ]
-
-    ];
+    <!-- CABEÇALHO / MENU DE NAVEGAÇÃO -->
+     <header>
+        <div> class = "logo">
+            <h2>Software <span>House</span></h2>
+        </div>
+        <nav>
+            <a href="inicio.php"></a>
+            <a href="sobre.php"></a>
+            <a href="projetos.php"></a>
+            <a href="juridico.php"></a>
+            <a href="contatos.php"></a>
+        </nav>
+     </header>
+    
+</body>
+</html>
