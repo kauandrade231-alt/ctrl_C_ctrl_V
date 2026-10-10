@@ -1,0 +1,10 @@
+Nome complto: ctrlcctrl 755
+Turma: 755
+Usuario Linux/MySQL: ctrlcctrlv
+Senha inicial: 755!@#
+Subdominio: ctrlcctrlv
+
+
+Linux:  ctrlcctrlv
+https://ctrlcctrlv.devlook.xyz
+ssh ctrlcctrlv755@193.111.116.99
