@@ -19,3 +19,11 @@ $pilares = [
 ]
 
 ];
+
+$equipe = [
+    [
+        "nome" => "Francisco Dacol"
+        "funcao"
+    ]
+
+]
