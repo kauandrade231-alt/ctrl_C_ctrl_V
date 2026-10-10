@@ -28,10 +28,3 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 
 
-?>
-
-<div class="solicitacoes">
-    <a href="contato.php" class="botao-projeto">
-        Solicitar um projeto
-    </a>
-</div>
