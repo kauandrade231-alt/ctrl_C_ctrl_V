@@ -14,10 +14,10 @@
 <?php
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 
-    $inicio=$_POST["inicio"];
-    $juridico=$_POST["juridico"];
-    $sobre=
-
+    $inicio = $_POST["inicio"];
+    $juridico = $_POST["juridico"];
+    $sobre = $_POST["sobre"];
+    $contato = $_POST["contato"];
 
 
 
