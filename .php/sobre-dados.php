@@ -23,7 +23,7 @@ $pilares = [
 $equipe = [
     [
         "nome" => "Francisco Dacol",
-        "funcao" => "Desenvolvedor Backend / PHP",
+        "funcao" => "Desenvolvedor PHP",
         "descricao" => "Responsável pelo desenvolvimento da página 'Sobre' e processamento de matrizes."
     ],
     [
