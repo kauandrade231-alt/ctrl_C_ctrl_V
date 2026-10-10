@@ -25,6 +25,26 @@ $equipe = [
         "nome" => "Francisco Dacol",
         "funcao" => "Desenvolvedor Backend / PHP",
         "descricao" => "Responsável pelo desenvolvimento da página 'Sobre' e processamento de matrizes."
+    ],
+    [
+        "nome" => "Leonardo Freitas",
+        "funcao" => "Desenvolvedor",
+        "descricao" => "Responsável pela"
+    ],
+    [
+        "nome" => "Kauan Andrade",
+        "funcao" => "Desenvolvedor",
+        "descricao" => "Responsável pela",
+    ],
+    [
+        "nome" => "Arthur Pontes",
+        "funcao" => "Desenvolvedor",
+        "descricao" => "Responsável pela",
+    ],
+    [
+        "nome" => "Asafe Gustavo",
+        "funcao" => "Desenvolvedor",
+        "descricao" => "Responsável pela",
     ]
-
     ];
+    ?>
