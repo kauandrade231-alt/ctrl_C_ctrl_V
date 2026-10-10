@@ -19,3 +19,12 @@ $pilares = [
 ]
 
 ];
+
+$equipe = [
+    [
+        "nome" => "Francisco Dacol",
+        "funcao" => "Desenvolvedor Backend / PHP",
+        "descricao" => "Responsável pelo desenvolvimento da página 'Sobre' e processamento de matrizes."
+    ]
+
+    ];
