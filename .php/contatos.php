@@ -33,6 +33,15 @@ if($_POST) {
     <br><br>
 
     <label>Qual projeto você deseja</label>
+    <select name="projeto" required>
+        <option value="Site">Site</option>
+        <option value="Sistema">Sistema</option>
+        <option value="Aplicativo">Aplicativo</option>
+
+    </select>
+    <br><br>
+
+    <button type="submit">Enviar</button>
     </form>
 
     </body>
