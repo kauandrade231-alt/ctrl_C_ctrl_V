@@ -23,3 +23,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         Solicitar um projeto
     </a>
 </div>
+<<<<<<< HEAD
+=======
+>>>>>>> 36e67c01f6d534eac478d725eda0063810e8e68
+>>>>>>> 67f5f9b52ad4bffea7ac7dab1336a462f1de6df9
