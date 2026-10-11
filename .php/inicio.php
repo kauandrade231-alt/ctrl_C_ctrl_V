@@ -3,16 +3,24 @@
 
 
 <?php
-if($_SERVER["REQUEST_METHOD"] == "POST")
+$pagina = "dashboard";
+if(isset($_GET["secao"])){
 
+        $pagina = $GET["secao"];
 
-    $inicio=$_POST["inicio"];
-    $juridico=$_POST["juridico"];
-    $sobre=$_POST["sobre"];
-    $projetos=$_POST["projeto"];
-    $contato = $_POST["contato"];
-
-    
-
+}
 
 ?>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>software house</title>
+</head>
+<body>
+    <h1>CTRL-C <span>CTRL-V</span></h1>
+    <h2>software house</h2>
+</body>
+</html>
