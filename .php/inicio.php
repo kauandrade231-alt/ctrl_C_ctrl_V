@@ -20,7 +20,22 @@ if(isset($_GET["secao"])){
     <title>software house</title>
 </head>
 <body>
-    <h1>CTRL-C <span>CTRL-V</span></h1>
+    <header>
+    <div class="logo">
+
+    <h2>CTRL-C <span>CTRL-V</span></h2>
+
+    </div>
     <h2>software house</h2>
+
+    <nav>
+    <a href="inicio.php?secao=dashboard">Início</a>
+    <a href="inicio.php?secao=sobre">Sobre</a>
+    <a href="inicio.php?secao=projetos">Projetos</a>
+    <a href="inicio.php?secao=juridico">Jurídico</a>
+    <a href="inicio.php?secao=contatos">Contato</a>
+    </nav>
+    </header>
+    
 </body>
 </html>
