@@ -36,6 +36,28 @@ if(isset($_GET["secao"])){
     <a href="inicio.php?secao=contatos">Contato</a>
     </nav>
     </header>
-    
+    <main>
+    <?php
+    switch($pagina){
+        case "dashboard":
+            include "dashboard.php";
+            break;
+        case "sobre":
+            include "sobre.php";
+            break;
+        case "projetos":
+            include "projetos.php";
+            break;
+        case "juridico":
+            include "juridico.php";
+            break;
+        case "contatos":
+            include "contatos.php";
+            break;
+        default:
+            include "dashboard.php";
+    }
+    ?>
+    </main>
 </body>
 </html>
