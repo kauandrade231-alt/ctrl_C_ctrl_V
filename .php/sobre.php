@@ -40,7 +40,11 @@ require_once "sobre-dados.php";
                     <p>
                         Somos uma empresa de desenvolvimento de sistemas focada em criar soluções web eficientes, orgnizadas e de alta usabilidade para otimizar rtinas operacionais e suporte técnico.
                     </p>
+                    <p>
+                        Nosso projeto integra tecnologias essenciais como HTML semântico, CSS e PHP raiz para gerenciamento de dados via arquivo JSON locais, garantidno leveza e segurança sem dependendências externas.
+                    </p>
                 </div>
+                
             </div>
          </section>
       </main>
