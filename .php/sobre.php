@@ -25,6 +25,25 @@ require_once "sobre-dados.php";
             <a href="contatos.php"></a>
         </nav>
      </header>
+
+     <!-- CONTEÚDO PRINCIPAL -->
+      <main>
+        <!-- SEÇÃO SOBRE A EMPRESA -->
+         <section class ="sobre">
+            <div class = "titulo-secao">
+                <p>Quem somos?</p>
+                <h2>Sobre a nossa Software House</h2>
+            </div>
+            
+            <div class="sobre-conteudo">
+                <div class="sobre-texto">
+                    <p>
+                        Somos uma empresa de desenvolvimento de sistemas focada em criar soluções web eficientes, orgnizadas e de alta usabilidade para otimizar rtinas operacionais e suporte técnico.
+                    </p>
+                </div>
+            </div>
+         </section>
+      </main>
     
 </body>
 </html>
