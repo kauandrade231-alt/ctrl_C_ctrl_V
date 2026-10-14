@@ -20,19 +20,29 @@
     <p>Antes de ter um orçamento de seu projeto, precisamos ter certeza de que seu projeto é uma coisa legal e dentro dos limites da lei, caso contrário não poderá ser
        feito.
     </p>
-
+ 
 
   <form method="POST">
-   <h1>Sobre o que é seu projeto?</h1>
 
-   <h2>O que você deseja que o projeto faça</h2>
+  <div class="campo">
+  <label for="sobre">Sobre o que é seu projeto?</label>
+  <textarea id="sobre" name="sobre" rows="4" placeholder="Descreva a ideia geral do projeto"></textarea>
+  </div>
+  
+  <label>O que você deseja que o projeto faça</label>
+  <div class="campo">
+  <textarea id="sobre" name="sobre" rows="4" placeholder="Descreva qual a função que seu projeto precisa ter"></textarea>
+  </div>
 
-   <h3>Como gostaria que o projeto seja feito?</h3>
+  <label>Como gostaria que o projeto seja feito?</label>
+  <div class="campo">
+  <textarea id="sobre" name="sobre" rows="4" placeholder="De que forma gostaria que seu projeto fosse feito? ex: sistema, site etc"></textarea>
+  </div>
 
-   <h4>Quanto você pretende gastar com o projeto</h4>
-
-
-
+  <label>Quanto você pretende gastar com o projeto</label>
+  <div class="campo">
+  <textarea id="sobre" name="sobre" rows="4" placeholder="qual a quantia que você pretente pagar com base no orçamento?"></textarea>
+  </div>
 
  <button type="submit">Enviar</button>
 
