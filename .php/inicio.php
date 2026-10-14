@@ -6,7 +6,7 @@
 $pagina = "dashboard";
 if(isset($_GET["secao"])){
 
-        $pagina = $GET["secao"];
+        $pagina = $_GET["secao"];
 
 }
 
