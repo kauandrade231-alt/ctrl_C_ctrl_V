@@ -29,11 +29,11 @@ if(isset($_GET["secao"])){
     <h2>software house</h2>
 
     <nav>
-    <a href="inicio.php?secao=dashboard">Início</a>
-    <a href="inicio.php?secao=sobre">Sobre</a>
-    <a href="inicio.php?secao=projetos">Projetos</a>
-    <a href="inicio.php?secao=juridico">Jurídico</a>
-    <a href="inicio.php?secao=contatos">Contato</a>
+    <a href="index.php?secao=dashboard">Início</a>
+    <a href="index.php?secao=sobre">Sobre</a>
+    <a href="index.php?secao=projetos">Projetos</a>
+    <a href="index.php?secao=juridico">Jurídico</a>
+    <a href="index.php?secao=contatos">Contato</a>
     </nav>
     </header>
     <main>
