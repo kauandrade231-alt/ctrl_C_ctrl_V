@@ -74,12 +74,33 @@ require_once "sobre-dados.php";
                         <p><strong><?= htmlspecialchars($membro["funcao"]) ?></p>
                         <p><?= htmlspecialchars($membro["descricao"]) ?></p>
                         <div class="tecnologias></div>">
-                            
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>PHP</span>  
                         </div>
                     </div>
+                <?php endforeach; ?>
             </div>
           </section> 
+
+          <!-- SEÇÃO CONTATO -->
+           <section id="contato" class="contato">
+                    <div class="titulo-secao">
+                        <p>Vamos Conversar?</p>
+                        <h2>Entre em Contato</h2>
+                    </div>
+                    <p class="contato-texto">
+                        Dúvidas sobre nossas soluções ou suporte técnico? Fale diretamente com a nossa equipe.
+                    </p>
+                    <div class="contato-links">
+                        <a href="WhatsApp: https:"></a>
+                        <a href="Email: "></a>
+                        <a href="GitHub:"></a>
+                    </div>
+           </section>
       </main>
+
+      
     
 </body>
 </html>
