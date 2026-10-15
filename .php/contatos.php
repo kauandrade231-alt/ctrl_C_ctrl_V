@@ -1,14 +1,14 @@
 <?php 
 
-if($_POST) {
-   $nome = $_POST["nome"];
-   $email = $_POST["email"];
-   $projeto = $_POST["projeto"];
+if($_SERVER["REQUEST_METHOD]"]=== "POST") {
+   $nome = $_POST["nome"]??"";
+   $email = $_POST["email"]??"";
+   $projeto = $_POST["projeto"]??"";
 
    echo "<h2>Solicitação recebida!<h2>";
    echo "Nome: " . htmlspecialchars($nome) . "<br>";
    echo "Email" . htmlspecialchars($email) . "<br>";
-   echo "Projeto" . htmlspecialchars($projeto) . "<br>";
+   echo "Projeto" . htmlspecialchars($projeto) . "<br><hr>";
     }
     ?>
 
