@@ -14,6 +14,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Juridico</title>
+    <link rel="stylesheet" href="juridico.css">
+
 </head>
 <body>
 
@@ -48,6 +50,9 @@
 
   </form>
   
+
+  <a href="mailto: ctrlvctrlc857@gmail.com">E-mail</a>
+
 
     
 </body>
