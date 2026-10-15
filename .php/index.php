@@ -3,12 +3,8 @@
 
 
 <?php
-$pagina = "dashboard";
-if(isset($_GET["secao"])){
+$pagina =  $_GET["secao"] ??"dashboard";
 
-        $pagina = $_GET["secao"];
-
-}
 
 ?>
 
