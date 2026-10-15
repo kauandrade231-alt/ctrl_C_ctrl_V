@@ -15,11 +15,16 @@ h1 {
 
 form {
     background-color: rgb(29, 29, 105);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid;
 }
 
-
-
-
+label {
+    display: block;
+    margin-bottom: 9px;
+    
+}
 
 
 
