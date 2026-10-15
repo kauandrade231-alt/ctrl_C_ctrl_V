@@ -29,7 +29,7 @@ $equipe = [
     [
         "nome" => "Leonardo Freitas",
         "funcao" => "Desenvolvedor",
-        "descricao" => "Responsável pela"
+        "descricao" => "Responsável pela",
     ],
     [
         "nome" => "Kauan Andrade",
