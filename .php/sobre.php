@@ -1,6 +1,6 @@
 <?php
 
-require_once "sobre-dados.php";
+require_once __DIR__ . "sobre-dados.php";
 ?>
 
 <!DOCTYPE html>
@@ -15,7 +15,7 @@ require_once "sobre-dados.php";
 
     <!-- CABEÇALHO / MENU DE NAVEGAÇÃO -->
      <header>
-        <div> class = "logo">
+        <div class="logo">
             <h2>Software <span>House</span></h2>
         </div>
         <nav>
@@ -50,10 +50,10 @@ require_once "sobre-dados.php";
                  <div class="habilidades">
                     <?php foreach ($pilares as $pilar): ?>
                         <div class = "habilidade">
-                            <h3><? $pilar["icone"] ?> <?=  htmlspecialchars($pilar["titulo"]) ?></h3>
+                            <h3><?=  htmlspecialchars ($pilar["icone"]) ?> <?=  htmlspecialchars($pilar["titulo"]) ?></h3>
                             <p><?=  htmlspecialchars($pilar["descricao"]) ?></p>
                         </div>
-                    <php foreach; ?>
+                    <?php endforeach; ?>
                 </div>
             </div>
          </section>
@@ -72,9 +72,9 @@ require_once "sobre-dados.php";
                             0<?= $index + 1?>
                         </div>
                         <h3><?= htmlspecialchars($membro["nome"]) ?></h3>
-                        <p><strong><?= htmlspecialchars($membro["funcao"]) ?></p>
+                        <p><strong><?= htmlspecialchars($membro["funcao"]) ?></strong></p>
                         <p><?= htmlspecialchars($membro["descricao"]) ?></p>
-                        <div class="tecnologias></div>">
+                        <div class="tecnologias">
                             <span>HTML</span>
                             <span>CSS</span>
                             <span>PHP</span>  
@@ -100,5 +100,11 @@ require_once "sobre-dados.php";
                     </div>
            </section>
       </main>
+
+      <!-- RODAPÉ -->
+       <footer>
+        <p> Desenvolvido por Francisco Dacol | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + CSS + PHP Raiz</p>
+       </footer>
 </body>
 </html>
