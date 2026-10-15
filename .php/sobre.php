@@ -9,6 +9,7 @@ require_once "sobre-dados.php";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="sobre.css">
 </head>
 <body>
 
@@ -99,8 +100,5 @@ require_once "sobre-dados.php";
                     </div>
            </section>
       </main>
-
-      
-    
 </body>
 </html>
