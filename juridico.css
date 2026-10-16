@@ -33,6 +33,7 @@ h1{
 
     align-items: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #06264a;
 
 
 
@@ -56,6 +57,7 @@ button:hover {
     color: #06264a;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(22,138,173,0.3);
+
 }
 
 
