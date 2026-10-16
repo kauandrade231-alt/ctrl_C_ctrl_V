@@ -17,14 +17,14 @@ body
 
 
 p{
-    color:#007292;
+    color:#013847;
 
 }
 
 
 label{
 
-color: #007292;
+color: #023847;
 align-items: center;
 
 }
@@ -33,6 +33,7 @@ h1{
 
     align-items: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #06264a;
 
 
 
@@ -52,10 +53,10 @@ border-bottom-left-radius: 15%;
 }
 
 button:hover {
-    background-color: linear-gradient(90deg, #168aad, #61dafb);
     color: #06264a;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(22,138,173,0.3);
+
 }
 
 
