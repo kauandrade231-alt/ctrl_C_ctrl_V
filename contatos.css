@@ -83,3 +83,24 @@ h2 {
     margin-bottom: 15px;
 }
 
+body > h2,
+body > hr {
+    max-width: 450px;
+}
+
+body > hr {
+    width: 100%;
+    margin: 20px 0;
+    border: 1px solid #8be0ff;
+
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 26px;
+    }
+
+    form {
+        padding: 25px 20px;
+    }
+}
