@@ -1,34 +1,9 @@
 <?php
 
-require_once __DIR__ . "sobre-dados.php";
+require_once __DIR__ . "/sobre-dados.php";
 ?>
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="sobre.css">
-</head>
-<body>
 
-    <!-- CABEÇALHO / MENU DE NAVEGAÇÃO -->
-     <header>
-        <div class="logo">
-            <h2>Software <span>House</span></h2>
-        </div>
-        <nav>
-            <a href="inicio.php"></a>
-            <a href="sobre.php"></a>
-            <a href="projetos.php"></a>
-            <a href="juridico.php"></a>
-            <a href="contatos.php"></a>
-        </nav>
-     </header>
-
-     <!-- CONTEÚDO PRINCIPAL -->
-      <main>
         <!-- SEÇÃO SOBRE A EMPRESA -->
          <section class ="sobre">
             <div class = "titulo-secao">
@@ -83,6 +58,7 @@ require_once __DIR__ . "sobre-dados.php";
                 <?php endforeach; ?>
             </div>
           </section> 
+      </main>
 
 
       <!-- RODAPÉ -->
@@ -91,4 +67,3 @@ require_once __DIR__ . "sobre-dados.php";
         <p>HTML + CSS + PHP Raiz</p>
        </footer>
 </body>
-</html>
