@@ -10,12 +10,12 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    padding: 20px;
+    align-items:baseline;
+    padding: 200px;
     color: #ffffff;
 }
 h2{
-    font-size: 32px;
+    font-size: 320px;
     margin-bottom: 25px;
     text-align: center;
     color: #8be0ff;
