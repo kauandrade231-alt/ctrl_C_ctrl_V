@@ -17,7 +17,7 @@ $sobre = $_POST['sobre'];
 
     mail($para, $assunto, $mensagem);
 
-    echo "<h2>Análise jurídica solicitada com sucesso!</h2>";
+    echo "<h1>Análise jurídica solicitada com sucesso!</h1>";
 }
 
 
