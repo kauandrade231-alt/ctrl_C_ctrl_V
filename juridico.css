@@ -4,9 +4,6 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 
-
-
-
 }
 
 body 
@@ -22,6 +19,7 @@ body
 
 p{
     color:#007292;
+
 }
 
 
@@ -30,9 +28,13 @@ label{
 color: #007292;
 align-items: center;
 
+}
+
+h1{
 
 
 
+    
 }
 
 
