@@ -1,34 +1,15 @@
 <?php
 
-require_once __DIR__ . "sobre-dados.php";
+require_once __DIR__ . "/sobre-dados.php";
 ?>
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
+    
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="sobre.css">
 </head>
-<body>
 
-    <!-- CABEÇALHO / MENU DE NAVEGAÇÃO -->
-     <header>
-        <div class="logo">
-            <h2>Software <span>House</span></h2>
-        </div>
-        <nav>
-            <a href="inicio.php"></a>
-            <a href="sobre.php"></a>
-            <a href="projetos.php"></a>
-            <a href="juridico.php"></a>
-            <a href="contatos.php"></a>
-        </nav>
-     </header>
-
-     <!-- CONTEÚDO PRINCIPAL -->
-      <main>
         <!-- SEÇÃO SOBRE A EMPRESA -->
          <section class ="sobre">
             <div class = "titulo-secao">
@@ -83,23 +64,8 @@ require_once __DIR__ . "sobre-dados.php";
                 <?php endforeach; ?>
             </div>
           </section> 
-
-          <!-- SEÇÃO CONTATO -->
-           <section id="contato" class="contato">
-                    <div class="titulo-secao">
-                        <p>Vamos Conversar?</p>
-                        <h2>Entre em Contato</h2>
-                    </div>
-                    <p class="contato-texto">
-                        Dúvidas sobre nossas soluções ou suporte técnico? Fale diretamente com a nossa equipe.
-                    </p>
-                    <div class="contato-links">
-                        <a href="WhatsApp: https:"></a>
-                        <a href="Email: "></a>
-                        <a href="GitHub:"></a>
-                    </div>
-           </section>
       </main>
+
 
       <!-- RODAPÉ -->
        <footer>
@@ -107,4 +73,3 @@ require_once __DIR__ . "sobre-dados.php";
         <p>HTML + CSS + PHP Raiz</p>
        </footer>
 </body>
-</html>

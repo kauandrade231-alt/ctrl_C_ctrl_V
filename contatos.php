@@ -11,25 +11,26 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
    echo "Projeto" . htmlspecialchars($projeto) . "<br><hr>";
     }
     ?>
-
-    <!DOCTYPE html>
-    <html lang="pt-BR">
-    <head>
+ 
+    
+    
+<<<<<<< HEAD
+<head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Contato</title>
         <link rel="stylesheet" href="contatos.css">
 
     </head>
-    <body>
-        
+=======
+>>>>>>> af308c3d303725b613285053b5fb009c52409eb2
     <h1>Solicite seu projeto</h1>
 
     <form action="contatos.php" method="POST">
 
     <Label>Seu nome:</Label>
     <input type="text" name="nome" required>
-    
+    <link rel="stylesheet" href="contatos.css">
     <br><br>
 
     <label>Qual projeto você deseja</label>
@@ -44,8 +45,7 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
     <button type="submit">Enviar</button>
     </form>
 
-    </body>
-    </html>
+    
 
 
 
