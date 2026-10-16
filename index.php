@@ -23,7 +23,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <h2>CTRL-C <span>CTRL-V</span></h2>
 
     </div>
-    <h2>software house</h2>
+    <h2>SOFTWARE HOUSE</h2>
 
     <nav>
     <a href="index.php?secao=dashboard">Início</a>
