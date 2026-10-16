@@ -15,6 +15,7 @@ require_once __DIR__ . "/sobre-dados.php";
             <div class = "titulo-secao">
                 <p>Quem somos?</p>
                 <h2>Sobre a nossa Software House</h2>
+                <br><br>
             </div>
             
             <div class="sobre-conteudo">
@@ -25,6 +26,7 @@ require_once __DIR__ . "/sobre-dados.php";
                     <p>
                         Nosso projeto integra tecnologias essenciais como HTML semântico, CSS e PHP raiz para gerenciamento de dados via arquivo JSON locais, garantidno leveza e segurança sem dependendências externas.
                     </p>
+                    <br><br>
                 </div>
 
                 <!-- EXIBIÇÃO DOS PILARES INSTITUCIONAIS VIA PHP -->
@@ -44,6 +46,7 @@ require_once __DIR__ . "/sobre-dados.php";
             <div class="titulo-secao">
                 <p>Nosso Time</p>
                 <h2>Equipe de Desnvolvimento</h2>
+                <br><br>
             </div>
 
             <div class ="projetos">
@@ -72,4 +75,5 @@ require_once __DIR__ . "/sobre-dados.php";
         <p> Desenvolvido por Francisco Dacol | <a href="#"> Software House Web - Equipe de LP</a> </p>
         <p>HTML + CSS + PHP Raiz</p>
        </footer>
+       <br><br>
 </body>
