@@ -18,6 +18,8 @@ $sobre = $_POST['sobre'];
     mail($para, $assunto, $mensagem);
 
     echo "<h1>Análise jurídica solicitada com sucesso!</h1>";
+
+
 }
 
 
@@ -60,10 +62,13 @@ $sobre = $_POST['sobre'];
   <div class="campo">
   <textarea id="sobre" name="sobre" rows="4" placeholder="qual a quantia que você pretente pagar com base no orçamento?"></textarea>
   </div>
+<div class="botao">
 
  <button type="submit">Enviar</button>
+</div>
 
   </form>
+
   
 
   <a href="mailto: ctrlvctrlc857@gmail.com">E-mail</a>
