@@ -63,7 +63,6 @@ $sobre = $_POST['sobre'];
   <textarea id="sobre" name="sobre" rows="4" placeholder="qual a quantia que você pretente pagar com base no orçamento?"></textarea>
   </div>
 <div class="botao">
-
  <button type="submit">Enviar</button>
 </div>
 
