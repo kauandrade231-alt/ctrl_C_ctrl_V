@@ -7,10 +7,10 @@
 
 body 
 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(37, 37, 107);
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(135deg, #061a40, #0b6e99);
+    background: linear-gradient(135deg, #ffffff, #0b6e99);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@ body
 .sobre-conteudo,
 .projetos {
     background-color: #ffffff;
-    color: #ffffff;
+    color: #082b50;
     width: 100%;
     max-width: 450px;
     padding: 35px;
