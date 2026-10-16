@@ -41,8 +41,8 @@ $sobre = $_POST['sobre'];
 
   <form method="POST">
 
-  <div class="campo">
   <label for="sobre">Sobre o que é seu projeto?</label>
+  <div class="campo">
   <textarea id="sobre" name="sobre" rows="4" placeholder="Descreva a ideia geral do projeto"></textarea>
   </div>
   

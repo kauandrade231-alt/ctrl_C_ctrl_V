@@ -8,13 +8,12 @@ box-sizing: border-box;
 
 body 
 {
-    background-color: rgb(110, 213, 245);
+    background: linear-gradient(135deg, #ffffff, #0b6e99);
     color: #007292(240, 240, 248);
     font-family: Arial, Helvetica, sans-serif;
     align-items: center;
 
 }
-
 
 
 p{
@@ -33,11 +32,22 @@ align-items: center;
 h1{
 
     align-items: center;
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 
 
 }
+
+form{
+
+align-items: center;
+border-radius: 10%;
+
+
+
+}
+
+
 
 
 
