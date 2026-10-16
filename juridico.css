@@ -53,7 +53,6 @@ border-bottom-left-radius: 15%;
 }
 
 button:hover {
-    background-color: linear-gradient(90deg, #168aad, #61dafb);
     color: #06264a;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(22,138,173,0.3);
