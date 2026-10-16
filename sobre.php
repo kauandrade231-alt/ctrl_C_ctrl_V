@@ -63,9 +63,8 @@ require_once __DIR__ . "/sobre-dados.php";
                 <?php endforeach; ?>
             </div>
           </section> 
-
-         
       </main>
+
 
       <!-- RODAPÉ -->
        <footer>
