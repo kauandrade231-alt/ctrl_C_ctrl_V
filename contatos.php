@@ -14,7 +14,6 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
  
     
     
-<<<<<<< HEAD
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,8 +21,6 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
         <link rel="stylesheet" href="contatos.css">
 
     </head>
-=======
->>>>>>> af308c3d303725b613285053b5fb009c52409eb2
     <h1>Solicite seu projeto</h1>
 
     <form action="contatos.php" method="POST">
