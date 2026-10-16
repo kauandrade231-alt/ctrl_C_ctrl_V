@@ -84,22 +84,6 @@ require_once __DIR__ . "sobre-dados.php";
             </div>
           </section> 
 
-          <!-- SEÇÃO CONTATO -->
-           <section id="contato" class="contato">
-                    <div class="titulo-secao">
-                        <p>Vamos Conversar?</p>
-                        <h2>Entre em Contato</h2>
-                    </div>
-                    <p class="contato-texto">
-                        Dúvidas sobre nossas soluções ou suporte técnico? Fale diretamente com a nossa equipe.
-                    </p>
-                    <div class="contato-links">
-                        <a href="WhatsApp: https:"></a>
-                        <a href="Email: "></a>
-                        <a href="GitHub:"></a>
-                    </div>
-           </section>
-      </main>
 
       <!-- RODAPÉ -->
        <footer>
