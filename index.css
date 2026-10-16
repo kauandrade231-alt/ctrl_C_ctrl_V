@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: linear-gradient(135deg, #061a40, #0b6e99);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #ffffff;
+}
+h2{
+    font-size: 32px;
+    margin-bottom: 25px;
+    text-align: center;
+    color: #8be0ff;
+}
