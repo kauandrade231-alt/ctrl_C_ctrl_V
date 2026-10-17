@@ -14,6 +14,12 @@ body{
     padding: 200px;
     color: #ffffff;
 }
+.navbar-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 h2{
     font-size: 83px;
     margin-bottom: 25px;

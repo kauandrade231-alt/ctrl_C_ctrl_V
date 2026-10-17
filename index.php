@@ -17,7 +17,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <header>
+    <header class="navbar-container">
     <div class="logo">
 
     <h2>CTRL-C <span>CTRL-V</span></h2>
