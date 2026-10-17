@@ -27,6 +27,7 @@ body {
             font-weight: bold;
             transition: background-color 0.3s ease;
             margin-bottom: 15px;
+            align-items: center;
 }
 
 .botao:hover{
@@ -44,9 +45,12 @@ margin-bottom: 30px;
 
 h1{
 
+
+align-items: center;   
 font-size: 1.2rem;
 margin-top: 15px;
 margin-bottom: 8px;
 
 }
+
 
