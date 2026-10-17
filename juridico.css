@@ -16,9 +16,9 @@ body
 }
 
 
-p{
+h2{
     color:#013847;
-
+     size: 12cap;
 }
 
 
@@ -29,11 +29,12 @@ align-items: center;
 
 }
 
-h1{
+p{
 
     align-items: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #06264a;
+    size: 50px;
 
 
 
@@ -46,11 +47,28 @@ border-radius: 10%;
 
 
 }
-.botao{
-
-align-items: center;
-border-bottom-left-radius: 15%;
+.botao {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  justify-content: center; 
+  margin-top: 20px;
 }
+
+.botao button {
+  background-color: #0b6e99;  
+  color: #ffffff;             
+  font-size: 16px;            
+  font-weight: bold;          
+  padding: 12px 30px;         
+  border: none;               
+  border-radius: 8px;         
+  cursor: pointer;            
+  transition: all 0.3s ease;  
+}
+
+
+
 
 button:hover {
     color: #06264a;
@@ -59,13 +77,21 @@ button:hover {
 
 }
 
-.campo{
-max-width: 50px;
-
-
-
+.campo {
+  width: 100%;
+  max-width: 600px; 
+  margin-bottom: 15px;
 }
 
+.campo textarea {
+  width: 100%;       
+  min-height: 120px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #0b6e99;
+  border-radius: 6px;
+  resize: vertical; 
+}
 
 
 
