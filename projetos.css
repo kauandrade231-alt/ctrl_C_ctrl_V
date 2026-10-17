@@ -1,0 +1,18 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body 
+{
+    background: linear-gradient(135deg, #ffffff, #0b6e99);
+    color: #04313d(240, 240, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+
+}
+
+
