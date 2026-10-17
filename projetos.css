@@ -16,3 +16,21 @@ body
 }
 
 
+.botao {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff; 
+            color: #ffffff;            
+            text-decoration: none;     
+            border-radius: 5px;       
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+}
+
+.botao:hover{
+
+background-color: #04313d;
+
+
+}
