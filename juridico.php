@@ -36,8 +36,8 @@ $sobre = $_POST['sobre'];
 </head>
 <body>
 
-    <h2>Antes de ter um orçamento de seu projeto, precisamos ter certeza de que seu projeto é uma coisa legal e dentro dos limites da lei, caso contrário não poderá ser
-       feito.</h2>
+    <p>Antes de ter um orçamento de seu projeto, precisamos ter certeza de que seu projeto é uma coisa legal e dentro dos limites da lei, caso contrário não poderá ser
+       feito.</p>
     
  
 
