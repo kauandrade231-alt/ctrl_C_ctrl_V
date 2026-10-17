@@ -67,11 +67,6 @@ $sobre = $_POST['sobre'];
 </div>
 
   </form>
-
-  
-
-  <a href="mailto: ctrlvctrlc857@gmail.com">E-mail</a>
-
     
 </body>
 </html>
