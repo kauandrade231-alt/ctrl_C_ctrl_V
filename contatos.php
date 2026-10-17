@@ -42,7 +42,11 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
     <button type="submit">Enviar</button>
     </form>
 
-    
+    <footer>
+        <p> Desenvolvido por Francisco Dacol | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + CSS + PHP Raiz</p>
+       </footer>
+       <br><br>
 
 
 
