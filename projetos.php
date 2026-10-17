@@ -10,17 +10,18 @@
 
     <h1>KAUAN DE ANDRADE</h1>
     <a href="https://kauan755.devlook.xyz" target="_blank">Acessar projeto</a>
-
+    <br>
     <h1>ÁSAFE GUSTAVO</h1>
     <a href="https://asafe755.devlook.xyz" target="_blank">Acessar projeto</a>
-
+    <br>
     <h1>FRANCISCO DACOL</h1>
     <a href="https://francisco755.devlook.xyz" target="_blank">Acessar projeto</a>
-
+    <br>
     <h1>JOÃO ARTHUR</h1>
     <a href="https://joaoa755.devlook.xyz" target="_blank">Acessar projeto</a>
-
+    <br>
     <h1>LEONARDO</h1>
     <a href="https://leonardo755.devlook.xyz" target="_blank">Acessar projeto</a>
+    <br>
 </body>
 </html>
