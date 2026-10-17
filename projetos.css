@@ -40,11 +40,12 @@ background-color: #104d5e;
 h2{
 
 margin-bottom: 30px;
+align-items: center;   
+
 
 }
 
 h1{
-
 
 align-items: center;   
 font-size: 1.2rem;
