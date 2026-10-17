@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nossos projetos</title>
+    <title>NOSSOS PROJETOS</title>
 </head>
 <body>
-   <h1>NOSSOS PROJETOS</h1>
+   <h2>NOSSOS PROJETOS</h2>
 
-    <h2>KAUAN DE ANDRADE</h2>
+    <h1>KAUAN DE ANDRADE</h1>
     <a href="https://kauan755.devlook.xyz" target="_blank">Acessar projeto</a>
 
-    <h2>ÁSAFE GUSTAVO</h2>
+    <h1>ÁSAFE GUSTAVO</h1>
     <a href="https://asafe755.devlook.xyz" target="_blank">Acessar projeto</a>
 
-    <h2>FRANCISCO DACOL</h2>
+    <h1>FRANCISCO DACOL</h1>
     <a href="https://francisco755.devlook.xyz" target="_blank">Acessar projeto</a>
 
-    <h2>JOÃO ARTHUR</h2>
+    <h1>JOÃO ARTHUR</h1>
     <a href="https://joaoa755.devlook.xyz" target="_blank">Acessar projeto</a>
 
-    <h2>LEONARDO</h2>
+    <h1>LEONARDO</h1>
     <a href="https://leonardo755.devlook.xyz" target="_blank">Acessar projeto</a>
 </body>
 </html>
