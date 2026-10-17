@@ -19,6 +19,10 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 15% 30px;
+    background-color: #264992;
+    border-radius: 12px;
+    margin-bottom: 40px;
 }
 h2{
     font-size: 83px;
