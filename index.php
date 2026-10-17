@@ -25,7 +25,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     </div>
     <h2>SOFTWARE HOUSE</h2>
 
-    <nav>
+    <nav class="navbar">
     <a href="index.php?secao=dashboard">Início</a>
     <a href="index.php?secao=sobre">Sobre</a>
     <a href="index.php?secao=projetos">Projetos</a>
