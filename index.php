@@ -17,7 +17,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <header class="navbar-container">
+    <header>
     <div class="logo">
 
     <h2>CTRL-C <span>CTRL-V</span></h2>
@@ -25,7 +25,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     </div>
     <h2>SOFTWARE HOUSE</h2>
 
-    <nav class="navbar">
+    <nav>
     <a href="index.php?secao=dashboard">Início</a>
     <a href="index.php?secao=sobre">Sobre</a>
     <a href="index.php?secao=projetos">Projetos</a>
