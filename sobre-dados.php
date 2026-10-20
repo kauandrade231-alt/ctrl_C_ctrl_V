@@ -32,7 +32,7 @@ $equipe = [
         "descricao" => "Responsável pela",
     ],
     [
-        "nome" => "Kauan Andrade",
+        "nome" => "Kauan de Andrade",
         "funcao" => "Desenvolvedor",
         "descricao" => "Responsável pela",
     ],
@@ -48,3 +48,11 @@ $equipe = [
     ]
     ];
     ?>
+    
+      <!-- RODAPÉ -->
+      <footer>
+        <p> Desenvolvido por Francisco Dacol | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + PHP Raiz</p>
+       </footer>
+       <br><br>
+</body>

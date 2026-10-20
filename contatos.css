@@ -104,3 +104,27 @@ body > hr {
         padding: 25px 20px;
     }
 }
+
+footer{
+    width: 100%;
+    max-width: 450px;
+    margin-top: 20px;
+    border-top: 1px solid #8be0ff;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+footer p{
+    margin-bottom: 8px
+}
+
+footer a{
+    color: #8be0ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

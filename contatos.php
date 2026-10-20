@@ -43,6 +43,14 @@ if($_SERVER["REQUEST_METHOD]"]=== "POST") {
     </form>
 
     
+      <!-- RODAPÉ -->
+      <footer>
+        <p> Desenvolvido por Leonardo | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + PHP Raiz</p>
+       </footer>
+       <br><br>
+</body>
+
 
 
 
