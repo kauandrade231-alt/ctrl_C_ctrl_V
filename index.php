@@ -17,13 +17,13 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <header>
+    <header class="header">
     <div class="logo">
 
     <h2>CTRL-C <span>CTRL-V</span></h2>
 
     </div>
-    <h2>SOFTWARE HOUSE</h2>
+   
 
     <nav>
     <a href="index.php?secao=dashboard">Início</a>
@@ -33,7 +33,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <a href="index.php?secao=contatos">Contato</a>
     </nav>
     </header>
-    <main>
+    <main class="conteudo-principal">
     <?php
     switch($pagina){
         case "dashboard":
