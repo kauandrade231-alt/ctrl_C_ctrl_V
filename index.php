@@ -64,3 +64,5 @@ $pagina =  $_GET["secao"] ??"dashboard";
        
 </body>
 </html>
+
+<!-- Código feito pelo Kauan de Andrade -->
