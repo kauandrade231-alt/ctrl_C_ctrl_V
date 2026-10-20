@@ -58,13 +58,28 @@ nav a:hover{
     form {
         padding: 25px 20px;
 }
-  
+.header {
+    height: auto;
+    padding: 15px 5%;
+    flex-direction: column; 
+    gap: 12px;
+}
+
+nav {
+    gap: 15px;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+
+body {
+    padding-top: 130px; 
+}
     }
 
 footer{
     width: 100%;
     max-width: 450px;
-    margin-top: 20px;
+    margin-top: 20px auto 0 auto;
     border-top: 1px solid #8be0ff;
     padding-top: 20px;
     text-align: center;
