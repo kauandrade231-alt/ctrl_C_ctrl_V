@@ -43,4 +43,10 @@
   </form>
     
 </body>
+
+<footer>
+        <p> Desenvolvido por Arthur Batista | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + CSS</p>
+       </footer>
+
 </html>
