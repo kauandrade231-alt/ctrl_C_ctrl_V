@@ -63,3 +63,12 @@ $pagina =  $_GET["secao"] ??"dashboard";
        
 </body>
 </html>
+
+
+      <!-- RODAPÉ -->
+      <footer>
+        <p> Desenvolvido por Kauan de Andrade | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + PHP Raiz</p>
+       </footer>
+       <br><br>
+</body>
