@@ -17,9 +17,17 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <header>
+    <header class="header">
     <div class="logo">
+
+
+    
+
+    </div>
+   
+
     <img src="https://i.ibb.co/tpCcZDv6/35766b82-35c5-42b1-83e5-91566854d8c2-removebg-preview-1.png" alt="logo">
+
 
     <nav>
 
@@ -31,7 +39,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <a href="index.php?secao=contatos" target="_blank" class="botao">Contato</a>
     </nav>
     </header>
-    <main>
+    <main class="conteudo-principal">
     <?php
     switch($pagina){
         case "dashboard":
@@ -61,3 +69,5 @@ $pagina =  $_GET["secao"] ??"dashboard";
        
 </body>
 </html>
+
+<!-- Código feito pelo Kauan de Andrade -->
