@@ -1,29 +1,3 @@
-<?php
-
-if($_SERVER["REQUEST_METHOD"] == "POST") {
-$para = "ctrlvctrlc857@gmail.com";
-$assunto = "Novo Orçamento de Projeto - Jurídico";
-
-
-$sobre = $_POST['sobre'];
-    $funcao = $_POST['funcao'];
-    $como_fazer = $_POST['como_fazer'];
-    $orcamento = $_POST['orcamento'];
-
-    $mensagem = "Sobre o projeto: " . $sobre . "\n";
-    $mensagem .= "O que deve fazer: " . $funcao . "\n";
-    $mensagem .= "Como fazer: " . $como_fazer . "\n";
-    $mensagem .= "Orçamento: " . $orcamento . "\n";
-
-    mail($para, $assunto, $mensagem);
-
-    echo "<h2>Análise jurídica solicitada com sucesso!</h2>";
-
-
-}
-
-
-?>
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -69,4 +43,10 @@ $sobre = $_POST['sobre'];
   </form>
     
 </body>
+
+<footer>
+        <p> Desenvolvido por Arthur Batista | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + CSS</p>
+       </footer>
+
 </html>
