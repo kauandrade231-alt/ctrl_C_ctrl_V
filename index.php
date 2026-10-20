@@ -30,11 +30,13 @@ $pagina =  $_GET["secao"] ??"dashboard";
 
 
     <nav>
-    <a href="index.php?secao=dashboard">Início</a>
-    <a href="index.php?secao=sobre">Sobre</a>
-    <a href="index.php?secao=projetos">Projetos</a>
-    <a href="index.php?secao=juridico">Jurídico</a>
-    <a href="index.php?secao=contatos">Contato</a>
+
+    
+    <a href="index.php?secao=dashboard" target="_blank" class="botao">Início</a>
+    <a href="index.php?secao=sobre" target="_blank" class="botao">Sobre</a>
+    <a href="index.php?secao=projetos" target="_blank" class="botao">Projetos</a>
+    <a href="index.php?secao=juridico" target="_blank" class="botao">Jurídico</a>
+    <a href="index.php?secao=contatos" target="_blank" class="botao">Contato</a>
     </nav>
     </header>
     <main class="conteudo-principal">

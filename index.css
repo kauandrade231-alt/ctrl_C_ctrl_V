@@ -99,3 +99,24 @@ footer a{
 footer a:hover {
     text-decoration: underline;
 }
+
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #004288; 
+    color: #ffffff;            
+    text-decoration: none;     
+    border-radius: 5px;       
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.botao:hover{
+
+background-color: #104d5e;
+
+
+}
