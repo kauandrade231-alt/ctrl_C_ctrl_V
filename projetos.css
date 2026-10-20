@@ -55,6 +55,7 @@ margin-bottom: 8px;
 }
 
 footer{
+    align-items: center;
     width: 100%;
     max-width: 450px;
     margin-top: 20px;
