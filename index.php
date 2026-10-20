@@ -19,6 +19,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
 <body>
     <header>
     <div class="logo">
+    <img src="" alt="logo">
 
     <h2>CTRL-C <span>CTRL-V</span></h2>
 

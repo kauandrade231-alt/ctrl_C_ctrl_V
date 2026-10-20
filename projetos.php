@@ -28,7 +28,7 @@
 
     <footer>
         <p> Desenvolvido por Ásafe Gustavo | <a href="#"> Software House Web - Equipe de LP</a> </p>
-        <p>HTML + CSS + PHP Raiz</p>
+        <p>HTML + CSS</p>
        </footer>
 
 </body>
