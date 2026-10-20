@@ -26,5 +26,10 @@
     <a href="https://leonardo755.devlook.xyz" target="_blank" class="botao">Acessar projeto</a>
     <br><br>
 
+    <footer>
+        <p> Desenvolvido por Ásafe Gustavo | <a href="#"> Software House Web - Equipe de LP</a> </p>
+        <p>HTML + CSS + PHP Raiz</p>
+       </footer>
+
 </body>
 </html>
