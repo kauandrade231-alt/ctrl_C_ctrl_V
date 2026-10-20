@@ -48,6 +48,19 @@ nav a:hover{
 .conteudo-principal{
     padding: 40px 8%;
 }
+
+@media (max-width: 480px) {
+
+  h1 {
+        font-size: 26px;
+    }
+
+    form {
+        padding: 25px 20px;
+}
+  
+    }
+
 footer{
     width: 100%;
     max-width: 450px;
