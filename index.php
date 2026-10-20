@@ -21,7 +21,7 @@ $pagina =  $_GET["secao"] ??"dashboard";
     <div class="logo">
 
 
-    <h2>CTRL-C <span>CTRL-V</span></h2>
+    
 
     </div>
    
